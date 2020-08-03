@@ -1,0 +1,8 @@
+{
+    "O": 0,
+    "consumer purchase": 1,
+    "consumer needs": 2,
+    "consumer use": 3,
+    "consumer attention": 4,
+    "consumer interest": 5
+}
